@@ -6,7 +6,7 @@ A fun and interactive memory game where you repeat the color pattern as long as 
 
 ## 📸 Preview
 
-![Game Screenshot](images/screenshot.png)
+![Game Screenshot](screenshot.png)
 <!-- Replace this with your own screenshot -->
 
 ---
@@ -46,3 +46,5 @@ A fun and interactive memory game where you repeat the color pattern as long as 
 ├── index.html       # HTML structure
 ├── style.css        # Game styling
 └── app.js           # Game logic
+🌍 Live Demo
+🔗 https://simonsaygamesjs.netlify.app/
