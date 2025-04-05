@@ -6,8 +6,8 @@ A fun and interactive memory game where you repeat the color pattern as long as 
 
 ## 📸 Preview
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/1c6d471f-c03b-4e4d-af5a-f1f802264ac0)
-) <!-- Replace this with your own screenshot -->
+![Game Screenshot](images/screenshot.png)
+<!-- Replace this with your own screenshot -->
 
 ---
 
